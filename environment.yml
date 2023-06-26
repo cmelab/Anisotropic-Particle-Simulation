@@ -1,0 +1,13 @@
+name: aniso-sims
+channels:
+  - conda-forge
+dependencies:
+  - gsd=2.9
+  - hoomd>3.0,<4.0
+  - mbuild
+  - numpy
+  - pip
+  - python
+  - matplotlib
+  - rowan
+  - py3dmol
